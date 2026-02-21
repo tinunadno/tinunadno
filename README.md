@@ -22,8 +22,6 @@
 
 <br/>
 
----
-
 <br/>
 
 ## 🖥️ Featured Projects
@@ -240,8 +238,6 @@ Approximation of solid-matter sputtering functions by heated gas, incorporating 
 </table>
 
 <br/>
-
----
 
 <br/>
 
